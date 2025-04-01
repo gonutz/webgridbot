@@ -1,4 +1,4 @@
-module webgridbot
+module github.com/gonutz/webgridbot
 
 go 1.22.1
 
